@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - PhysicsObject
+  - Needle
   layers:
   - Default
   - TransparentFX
